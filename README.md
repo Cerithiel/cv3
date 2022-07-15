@@ -1,2 +1,2 @@
-TinDog
-BootStrap 4 
+TinDog Website
+Built with HTML, CSS, and BootStrap 4 
